@@ -1,11 +1,3 @@
-/*
- * USART.h
- *
- * Created: 12/8/2023 11:56:13 PM
- *  Author: DELL
- */ 
-
-
 #ifndef USART_H_
 #define USART_H_
 
